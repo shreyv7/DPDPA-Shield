@@ -52,12 +52,12 @@
 
 ## Table of Contents
 
-- [Trial License & Security](#trial-license--security)
-- [Paid Access](#paid-access)
 - [About DPDPLawShield](#about-dpdplawshield)
 - [Core Mission](#core-mission)
 - [The DPDPA Regulatory Challenge](#the-dpdpa-regulatory-challenge)
 - [Key Capabilities](#key-capabilities)
+- [Trial License & Security](#trial-license--security)
+- [Paid Access](#paid-access)
 - [Platform Architecture](#platform-architecture)
 - [Target Users](#target-users)
 - [Feature Overview](#feature-overview)
@@ -79,53 +79,6 @@
 
 - [Support](#support)
 - [Get Involved](#get-involved)
-
----
-
-## Trial License & Security
-
-### Trial License Limits
-
-- **Trial accounts** are limited to a single organisation workspace with read-only access to the **DPDPA Posture Map** and **Consent Creator**.
-- Upgrade to a full license for unlimited DSARs, proof vault events, scanner runs, and all advanced modules.
-- **[Sign up for a trial account](https://dpdplawshield.zeroshield.ai/)**
-
-### Security Measures & Data Protection
-
-DPDPLawShield is built to be the most secure compliance platform an organisation can trust with its most sensitive personal data obligations.
-
-#### File & Upload Security
-- **Antivirus scanning** is performed automatically on all file uploads before processing.
-- **File size limit**: Individual uploads are capped at **100 MB** (repository size limit).
-
-#### Application Security
-- **OWASP Top 10 for API Security compliance** — the application has been thoroughly tested against all ten categories.
-- **Two-Factor Authentication (2FA)** with OTP verification on every sign-in.
-- **Secure authentication** via JWT tokens with encrypted session management.
-- **Input validation and sanitisation** on all user-submitted data.
-
-#### Data Privacy & Protection
-- **No permanent sensitive data storage** — API keys and personal access tokens used during integrations are purged immediately after processing.
-- **Minimal retention** — only non-sensitive metadata (e.g. organisation name, module names, scan status) is retained for record-keeping.
-- **Encrypted transit** using TLS 1.3 for all client-server communications.
-- **Tenant data isolation** — each organisation's workspace is fully partitioned at the database level.
-
-#### Proof Vault Security
-- **WORM (Write-Once-Read-Many) ledger** — direct deletion and update queries on audit and consent tables are blocked at the PostgreSQL rule level.
-- **SHA-256 cryptographic chaining** — any tampering breaks the chain and triggers CISO alerts.
-- **Merkle Tree integrity verification** runs continuously in the background.
-
----
-
-## Paid Access
-
-To learn more about enterprise plans, SDF-tier packages, and volume pricing, contact our team:
-
-📧 **Email**: [support@zeroshield.ai](mailto:support@zeroshield.ai)
-
-Our team will tailor a plan to your organisation's scale, industry vertical, and DPDPA obligations.
-
-**[Start with a trial account](https://dpdplawshield.zeroshield.ai/)** — no credit card required.
 
 ---
 
@@ -174,6 +127,53 @@ DPDPLawShield addresses every one of these challenges out of the box.
 - 🚨 **72-Hour Breach Disclosure Wizard** — guided stepper with pre-filled DPBI templates and tamper-proof evidence PDFs
 - 🔑 **Role-Based Access Control** — strict RBAC matrix with append-only audit log event broker
 - 🤖 **Shield AI** — AI-powered compliance assistant embedded across the platform
+
+---
+
+## Trial License & Security
+
+### Trial License Limits
+
+- **Trial accounts** are limited to a single organisation workspace with read-only access to the **DPDPA Posture Map** and **Consent Creator**.
+- Upgrade to a full license for unlimited DSARs, proof vault events, scanner runs, and all advanced modules.
+- **[Sign up for a trial account](https://dpdplawshield.zeroshield.ai/)**
+
+### Security Measures & Data Protection
+
+DPDPLawShield is built to be the most secure compliance platform an organisation can trust with its most sensitive personal data obligations.
+
+#### File & Upload Security
+- **Antivirus scanning** is performed automatically on all file uploads before processing.
+- **File size limit**: Individual uploads are capped at **100 MB** (repository size limit).
+
+#### Application Security
+- **OWASP Top 10 for API Security compliance** — the application has been thoroughly tested against all ten categories.
+- **Two-Factor Authentication (2FA)** with OTP verification on every sign-in.
+- **Secure authentication** via JWT tokens with encrypted session management.
+- **Input validation and sanitisation** on all user-submitted data.
+
+#### Data Privacy & Protection
+- **No permanent sensitive data storage** — API keys and personal access tokens used during integrations are purged immediately after processing.
+- **Minimal retention** — only non-sensitive metadata (e.g. organisation name, module names, scan status) is retained for record-keeping.
+- **Encrypted transit** using TLS 1.3 for all client-server communications.
+- **Tenant data isolation** — each organisation's workspace is fully partitioned at the database level.
+
+#### Proof Vault Security
+- **WORM (Write-Once-Read-Many) ledger** — direct deletion and update queries on audit and consent tables are blocked at the PostgreSQL rule level.
+- **SHA-256 cryptographic chaining** — any tampering breaks the chain and triggers CISO alerts.
+- **Merkle Tree integrity verification** runs continuously in the background.
+
+---
+
+## Paid Access
+
+To learn more about enterprise plans, SDF-tier packages, and volume pricing, contact our team:
+
+📧 **Email**: [support@zeroshield.ai](mailto:support@zeroshield.ai)
+
+Our team will tailor a plan to your organisation's scale, industry vertical, and DPDPA obligations.
+
+**[Start with a trial account](https://dpdplawshield.zeroshield.ai/)** — no credit card required.
 
 ---
 
