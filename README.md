@@ -48,37 +48,6 @@
 
 </div>
 
----
-
-## Table of Contents
-
-- [Trial License & Security](#trial-license--security)
-- [Paid Access](#paid-access)
-- [About DPDPA Shield](#about-dpdpa-shield)
-- [Core Mission](#core-mission)
-- [The DPDPA Regulatory Challenge](#the-dpdpa-regulatory-challenge)
-- [Key Capabilities](#key-capabilities)
-- [Platform Architecture](#platform-architecture)
-- [Target Users](#target-users)
-- [Feature Overview](#feature-overview)
-  - [Platform Guides & How to Use](#platform-guides--how-to-use)
-  - [Shield AI](#shield-ai)
-  - [1. Overview](#1-overview)
-  - [2. Consent Management](#2-consent-management)
-  - [3. Integrations](#3-integrations)
-  - [4. Data Protection](#4-data-protection)
-  - [5. Data Principal Rights](#5-data-principal-rights)
-  - [6. Compliance](#6-compliance)
-  - [7. Governance](#7-governance)
-  - [8. Settings](#8-settings)
-  - [9. Administration](#9-administration)
-- [DPDPA Section Compliance Mapping](#dpdpa-section-compliance-mapping)
-- [Example Workflows & User Benefits](#example-workflows--user-benefits)
-- [Use Cases](#use-cases)
-- [Case Studies](#case-studies)
-
-- [Support](#support)
-- [Get Involved](#get-involved)
 
 ---
 ## Table of Contents
