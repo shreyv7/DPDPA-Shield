@@ -81,6 +81,85 @@
 - [Get Involved](#get-involved)
 
 ---
+## Table of Contents
+
+- [Trial License & Security](#trial-license--security)
+- [Paid Access](#paid-access)
+- [About DPDPA Shield](#about-dpdpa-shield)
+- [Core Mission](#core-mission)
+- [The DPDPA Regulatory Challenge](#the-dpdpa-regulatory-challenge)
+- [Key Capabilities](#key-capabilities)
+- [Platform Architecture](#platform-architecture)
+- [Target Users](#target-users)
+- [Feature Overview](#feature-overview)
+  - [Platform Guides & How to Use](#platform-guides--how-to-use)
+  - [Shield AI](#shield-ai)
+  - [1. Overview](#1-overview)
+  - [2. Consent Management](#2-consent-management)
+  - [3. Integrations](#3-integrations)
+  - [4. Data Protection](#4-data-protection)
+  - [5. Data Principal Rights](#5-data-principal-rights)
+  - [6. Compliance](#6-compliance)
+  - [7. Governance](#7-governance)
+  - [8. Settings](#8-settings)
+  - [9. Administration](#9-administration)
+- [DPDPA Section Compliance Mapping](#dpdpa-section-compliance-mapping)
+- [Example Workflows & User Benefits](#example-workflows--user-benefits)
+- [Use Cases](#use-cases)
+- [Case Studies](#case-studies)
+
+- [Support](#support)
+- [Get Involved](#get-involved)
+
+---
+
+## About DPDPLawShield
+
+**DPDPLawShield** is an enterprise compliance automation platform within the **[ZeroShield](https://zeroshield.ai)** ecosystem, purpose-built to help Indian organisations achieve, demonstrate, and maintain compliance with the **Digital Personal Data Protection (DPDP) Act, 2023**.
+
+From granular consent capture and cryptographic proof vaults to automated PII scanning, 72-hour breach disclosure, and Data Principal rights management, DPDPLawShield converts the statute's most complex obligations into automated, real-time software guardrails — eliminating manual audit cycles and protecting organisations from statutory penalty exposure of up to **₹250 Crores per breach event**.
+
+---
+
+## Core Mission
+
+Transform the DPDP Act's complex regulatory requirements into a single, unified SaaS platform that automates consent lifecycle management, proves compliance through tamper-proof cryptographic evidence, detects personal data risks before they become breaches, and empowers Data Principals to exercise their statutory rights — all with zero modification to existing application code.
+
+---
+
+## The DPDPA Regulatory Challenge
+
+The DPDP Act, 2023 introduces a fundamentally stricter standard than previous Indian privacy frameworks:
+
+| Challenge | Details |
+|-----------|---------|
+| **Burden of Proof (Section 6(10))** | The *Data Fiduciary* (your organisation) must prove valid consent was obtained — not the regulator |
+| **Strict Opt-In Mandate** | Silent, pre-ticked, or bundled consent is illegal. Consent must be specific, informed, unconditional, and given via a clear affirmative action |
+| **Severe Penalty Exposure** | Personal data breach: **₹250 Cr** · Failure to notify: **₹150 Cr** · Children's data violation: **₹200 Cr** |
+| **DPBI Oversight** | The Data Protection Board of India (DPBI) has direct adjudicatory powers with no cap on repeat violations |
+| **Eighth Schedule Languages** | Consent notices must be accessible in all 22 officially recognised Indian languages |
+| **72-Hour Breach Window** | Mandatory DPBI notification within 72 hours of discovering a personal data breach |
+
+DPDPLawShield addresses every one of these challenges out of the box.
+
+---
+
+## Key Capabilities
+
+- 🗺️ **Penalty-Weighted DPDPA Posture Scoring** — live compliance score weighted by each section's statutory fine
+- 📝 **Granular Consent Management** — purpose registry, pluggable provider adapters, and symmetric withdrawal flows
+- 🔐 **Cryptographic Proof Vault** — SHA-256 chained, WORM ledger generating Indian Evidence Act Section 65B-compliant legal proof packs
+- 🍪 **Cookie & Tracker Manager** — headless Playwright crawler with real-time prior-consent enforcement
+- 👶 **Children's Data Safeguard** — verifiable parental consent workflows and zero-tracking enforcement API
+- 🔍 **Data Discovery & PII Scanner** — automated schema scanning across PostgreSQL, MySQL, Amazon S3, and local directories
+- 🧮 **Data Anonymisation & Retention** — k-Anonymity, l-Diversity, Laplace Differential Privacy, and automated deletion with certificates
+- 🎫 **Data Principal Rights Portal** — OTP-verified DSAR portal with Kanban SLA tracker and statutory countdown alarms
+- 🌐 **Cross-Border Transfer Governance** — restricted-country verification, DPA contract builder, and SDF registry
+- 🚨 **72-Hour Breach Disclosure Wizard** — guided stepper with pre-filled DPBI templates and tamper-proof evidence PDFs
+- 🔑 **Role-Based Access Control** — strict RBAC matrix with append-only audit log event broker
+- 🤖 **Shield AI** — AI-powered compliance assistant embedded across the platform
+
+---
 
 ## Trial License & Security
 
